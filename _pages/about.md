@@ -2,23 +2,25 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <b>Analyst</b> @ Bank of Canada // Tea enthusiast
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: headshot.png
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>+1 613-782-2194</p>
+    <p>234 Wellington St. W</p>
+    <p>Ottawa, ON K1A 0G9</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Welcome! :wave:
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am an Analyst at the Bank of Canada. I graduated from the University of Toronto in 2018 with an Honours Bachelor of Arts in Economics. I received the Bank of Canada's Women in Economics Scholarship in 2020. I am currently completing a Master of Science at the University of Texas at Austin, Department of Computer Science. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Above all else, I am an avid traveller. I last visited Ireland and Northern Ireland back in November 2019. Next, I'd like to visit Iceland. I am currently reading **[Empire of Pain: The Secret History of the Sackler Dynasty](https://www.chapters.indigo.ca/en-ca/books/empire-of-pain-the-secret/0385697546-item.html)** by Patrick Radden Keefe, and I am always looking for good book recommendations.
+
+For a sneak peak of my cat children, Ruth Bader Ginspurrg and Alan Purring, please click **[here](https://minniehcui.github.io/assets/img/ruth_and_alan.JPG)**.
