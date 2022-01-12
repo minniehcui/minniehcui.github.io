@@ -13,7 +13,7 @@ News of Israel's setback are understandably raising concerns around the world, a
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="/assets/img/israel_cases.png" class="img-fluid rounded z-depth-1" %}
+        <img class="mx-auto d-block" src="/assets/img/israel_cases.png">  
     </div>
 </div>
 
