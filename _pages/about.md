@@ -6,7 +6,7 @@ subtitle: <b>Analyst</b> @ Bank of Canada // Tea enthusiast
 
 profile:
   align: right
-  image: headshot.png
+  image: headshot.jpg
   address: >
     <p>+1 613-782-2194</p>
     <p>234 Wellington St. W</p>
