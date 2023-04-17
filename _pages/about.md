@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <b>Analyst</b> @ Bank of Canada // Tea enthusiast
+subtitle: <b>PhD student in Economics & Finance</b> @ UW-Madison // Tea enthusiast
 
 profile:
   align: right
@@ -19,8 +19,8 @@ social: true  # includes social icons at the bottom of the page
 
 Welcome! :wave:
 
-I am an Analyst at the Bank of Canada. I graduated from the University of Toronto in 2018 with an Honours Bachelor of Arts in Economics. I received the Bank of Canada's Women in Economics Scholarship in 2020. I am currently completing a Master of Science at the University of Texas at Austin, Department of Computer Science. 
+I am currently completing a joint PhD in Economics & Finance at the University of Wisconsin-Madison and a SSHRC Doctoral Fellow. Previously, I worked as an Analyst at the Bank of Canada. I graduated from the University of Toronto in 2018 with an Honours Bachelor of Arts in Economics and from the University of Texas at Austin with a Master of Science in Data Science. I received the Bank of Canada's Women in Economics Scholarship in 2020. 
 
-Above all else, I am an avid traveller. I last visited Ireland and Northern Ireland back in November 2019. Next, I'd like to visit Iceland. I am currently reading [Empire of Pain: The Secret History of the Sackler Dynasty](https://www.chapters.indigo.ca/en-ca/books/empire-of-pain-the-secret/0385697546-item.html) by Patrick Radden Keefe, and I am always looking for good book recommendations.
+Above all else, I am an avid traveller. Iceland is next on my bucket list. I am currently reading [Empire of Pain: The Secret History of the Sackler Dynasty](https://www.chapters.indigo.ca/en-ca/books/empire-of-pain-the-secret/0385697546-item.html) by Patrick Radden Keefe, and I am always looking for good book recommendations.
 
 For a sneak peak of my cat children, Ruth Bader Ginspurrg and Alan Purring, [click here](https://minniehcui.github.io/assets/img/ruth_and_alan.JPG).
