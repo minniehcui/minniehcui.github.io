@@ -1,7 +1,7 @@
 ---
 layout: page
 title: projects
-nav: false
+nav: true
 dropdown: true
 children: 
     - title: Canada COVID-19 Dashboard
