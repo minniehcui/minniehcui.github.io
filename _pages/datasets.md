@@ -1,7 +1,8 @@
 ---
 layout: page
 title: data sets
-nav: false
+nav: true
+nav_order: 2
 dropdown: true
 children: 
     - title: Canadian Daily Climate
