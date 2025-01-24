@@ -23,4 +23,4 @@ I am a student in the Joint PhD Program in Economics and Finance at the Universi
 
 Above all else, I am an avid traveller. Iceland is next on my bucket list. I am currently reading *Empire of Pain: The Secret History of the Sackler Dynasty* by Patrick Radden Keefe, and I am always looking for good book recommendations.
 
-For a sneak peak of my cat children, Ruth Bader Ginspurrg and Alan Purring, [click here](https://minniehcui.github.io/assets/img/ruth_and_alan.JPG).
+For a sneak peak of my cat children, Ruth Bader Ginspurrg and Alan Purring, <a href="https://minniehcui.github.io/assets/img/ruth_and_alan.JPG" target="_blank">click here</a>!
