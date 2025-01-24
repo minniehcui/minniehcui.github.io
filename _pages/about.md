@@ -8,9 +8,9 @@ profile:
   align: right
   image: headshot.jpg
   address: >
-    <p>+1 613-782-2194</p>
-    <p>234 Wellington St. W</p>
-    <p>Ottawa, ON K1A 0G9</p>
+    <p>minnie.cui@wisc.edu</p>
+    <p>1180 Observatory Dr</p>
+    <p>Madison, WI 53706</p>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
