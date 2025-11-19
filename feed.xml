@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="https://minniehcui.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://minniehcui.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-11-19T00:53:22+00:00</updated><id>https://minniehcui.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+</subtitle><entry><title type="html">Israel’s sobering setback and ongoing questions</title><link href="https://minniehcui.github.io/blog/2021/israel-covid-surge/" rel="alternate" type="text/html" title="Israel’s sobering setback and ongoing questions" /><published>2021-08-22T15:12:00+00:00</published><updated>2021-08-22T15:12:00+00:00</updated><id>https://minniehcui.github.io/blog/2021/israel-covid-surge</id><content type="html" xml:base="https://minniehcui.github.io/blog/2021/israel-covid-surge/"><![CDATA[<p>Israel led the world in launching vaccinations and in data gathering starting in December 2020, but the country is now confronting a surge of Covid-19 cases that officials expect to critically challenge hospital capacity. Israel has one of the highest levels of vaccination for COVID-19 around the world, with 78% of those 12 and older fully vaccinated, the vast majority with the Pfizer vaccine. Yet the country is now logging one of the world’s highest infection rates, with nearly 650 new cases daily per million people. More than half are in fully vaccinated people.<sup>1</sup></p>
+
+<p>News of Israel’s setback are understandably raising concerns around the world, about the effectiveness of the Pfizer mRNA vaccine, as well as the transmissibility of the Delta variant. Israel began administering booster shots on July 30, and early results are promising<sup>2</sup>. The US has announced booster shots will begin September 20.</p>
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="mx-auto d-block" src="/assets/img/israel_cases.png" />  
+    </div>
+</div>
+
+<p>In Canada, cases are also on the rise. Officials, however, have been trying to ease the public since around 78% of daily cases are driven by unvaccinated, or not fully vaccinated individuals. But if the case of Israel is to be believed, then we’re getting a glimpse of what we’ll see in Canada around January 2022.</p>
+
+<p>Some questions I’d like answered via more informative Canadian data before 2022:</p>
+<ul>
+  <li>Of Canadian daily new cases in <strong>fully vaccinated</strong> individuals, why did these individuals receive their second dose? If the fully vaccinated individuals catching Covid <em>now</em> received their second dose, say, in February (i.e. visitors to long-term care homes), then it could be that we’re seeing the protection of the vaccines ebb after 6 months, as is potentially the case with Israel. If a majority these individuals received their second dose very recently, then the vaccines are likely less effective against the Delta variant.</li>
+  <li>How will Canada’s policy on mixing mRNA vaccines will affect their effectiveness? We are one of a handful of countries in the world to allow mRNA vaccine mixing, and as a result, international travel for some may be delayed for longer than expected. A few countries have already announced they will not accepted mixed vaccines<sup>3</sup>.</li>
+</ul>
+
+<p>For daily updates on the Canadian Covid-19 situation, please visit my dashboard: <a href="https://mhcui.shinyapps.io/Canada_COVID/">https://mhcui.shinyapps.io/Canada_COVID/</a></p>
+
+<h4 id="footnotes">Footnotes</h4>
+
+<p><sup>1</sup>Wadman, M. 2021. <a href="https://www.sciencemag.org/news/2021/08/grim-warning-israel-vaccination-blunts-does-not-defeat-delta">A grim warning from Israel: Vaccination blunts, but does not defeat Delta</a>. <em>Science Magazine</em>.
+<br /><sup>2</sup>Heller, J. &amp; Lubell, M. 2021. <a href="https://www.ctvnews.ca/health/coronavirus/israel-finds-covid-19-vaccine-booster-significantly-lowers-infection-risk-1.5557083">Israel finds COVID-19 vaccine booster significantly lowers infection risk</a>. <em>CTV News</em>.
+<br /><sup>3</sup>Stober, E. 2021. <a href="https://globalnews.ca/news/8086370/mixed-vaccines-travel-policy/">Thinking of travelling? Here’s where mixed COVID-19 vaccines aren’t accepted</a>. <em>Global TV News</em>.</p>]]></content><author><name></name></author><category term="covid-posts" /><category term="covid" /><category term="israel" /><category term="canada" /><category term="delta" /><category term="variant" /><category term="data" /><summary type="html"><![CDATA[The rise of Covid-19 cases in Israel]]></summary></entry><entry><title type="html">From the Ashes</title><link href="https://minniehcui.github.io/blog/2021/from-the-ashes/" rel="alternate" type="text/html" title="From the Ashes" /><published>2021-06-03T21:01:00+00:00</published><updated>2021-06-03T21:01:00+00:00</updated><id>https://minniehcui.github.io/blog/2021/from-the-ashes</id><content type="html" xml:base="https://minniehcui.github.io/blog/2021/from-the-ashes/"><![CDATA[<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="mx-auto d-block" src="/assets/img/book_fromtheashes.png" />  
+    </div>
+</div>
+
+<blockquote>
+  <p>Abandoned by this parents as a toddler, Jesse Thistle briefly found himself in the foster care system with his two brothers, cut off from all they had known. Eventually the children landed in the home of their paternal grandparents, whose tough-love attitudes quickly resulted in conflicts. Throughout it all, the ghost of Jesse’s drug-addicted father haunted the halls of the house and the memories of every family member. Struggling with all that had happened, Jesse succumbed to a self-destructive cycle of drug and alcohol addiction and petty crime, spending more than a decade on and off the streets. Finally, he realized he would die unless he turned his life around. <br /><br /> In this heartwarming and heart-wrenching memoir, Thistle writes honestly and fearlessly about his painful past, the abuse he endured, and how he uncovered the truth about his parents. Through sheer perseverance and education–and new found love–he found his way back into the circle of his Indigenous culture and family. <br /><br /> An eloquent exploration of the impact of prejudice and racism, <em>From the Ashes</em> is, in the end, about how love and support can help us find happiness despite the odds.</p>
+</blockquote>
+
+<h3 id="jesses-story">Jesse’s story</h3>
+
+<p>I originally read this book back in February, but recent events have reminded me of how I felt forever changed at its conclusion. It is undoubtedly one of the most raw, most honest and powerful memoirs I have read to date. Jesse’s story is heart wrenching, heavy, and so, so inspiring.</p>
+
+<p>This extremely well-written memoir gives the highly uncomfortable look into the very real consquences of generational trauma and systemic racism. The personal details of living through the brutal darkness of addiction and homelessness are shocking and disorienting. Jesse is upfront about the existence of holes in his memory due to heavy drug use, which adds an additional layer of appreciation for how much emotional work had to be done before any writing even commenced.</p>
+
+<p>The only true solice I get from this book is knowing that Jesse makes it out of this story alive and well<sup>1</sup>, and eventually finds love. When I finished the book, though relieved for Jesse’s success in overcoming the consequences of his abuse and his subsequent addictions, I couldn’t shake the feeling of unease. Jesse made it out. Countless others did not. Jesse found his voice to tell his story. Too many others with similar stories will never have such an opportunity.</p>
+
+<p>And most of all, I couldn’t help but think, “<em>what were we really celebrating when Canada had its 150th anniversary of Confederation?</em>”</p>
+
+<h3 id="why-these-stories-need-to-be-told">Why these stories need to be told</h3>
+
+<p>While Canada is a diverse, multi-cultural democracy that enjoys a global reputation as a defender of human rights and a strong record on core civil and political rights protections guaranteed by the Canadian Charter of Rights and Freedoms, the country has struggled to address some longstanding human rights challenges, including wide-ranging abuses against Indigenous peoples. Some may be surprised to know that Canada only officially removed its objector status to the United Nations Declaration on the Rights of Indigenous Peoples (UNDRIP) in 2016<sup>2</sup>.</p>
+
+<p>Today, the Canadian Senate unanimously voted to create national holiday for <em>truth and reconciliation</em>. The swift passage of Bill C-5 came shortly after the discovery of what are believed to be the remains of 215 Indigenous children in unmarked graves at a former residential school in Kamloops, B.C. <strong>Update: As of July 13, 2021, since May, more than 1,308 suspected graves have been uncovered near the sites of former residential schools: 215 in Kamloops, B.C., 182 in Cranbrook, B.C., 751 in Marieval, Sask., and the more than 160 found on Penelakut Island, B.C.</strong><sup>3</sup></p>
+
+<p>The generational trauma of these human rights violations yielded structural and systemic discrimination. In 2018/2019, Indigenous adults accounted for 31% of admissions to provincial/territorial custody and 29% of admissions to federal custody, while representing approximately 4.5% of the Canadian adult population<sup>4</sup>.</p>
+
+<p>Back in 2019, the conclusion of the Inquiry into missing and murdered Indigenous women made 231 recommendations and concluded that acts of violence against Indigenous women and girls amount to “genocide”<sup>5</sup>. A statutory holiday is simply not enough.</p>
+
+<h4 id="footnotes">Footnotes</h4>
+<p><sup>1</sup><strong>SPOILER</strong> Jesse Thistle is currently an Assistant Professor in Métis Studies at York University in Toronto, a Governor General’s Academic Medal winner, as well as a Pierre Elliot Trudeau and Vanier Scholar. 
+<br /><sup>2</sup><a href="https://www.hrw.org/world-report/2020/country-chapters/canada#">Canada: Events of 2019</a>. <em>Human Rights Watch: World Reports 2019</em>.
+<br /><sup>3</sup><a href="https://www.npr.org/2021/07/13/1015823457/more-than-160-additional-indigenous-graves-have-been-found-in-canada">More Than 160 Additional Indigenous Graves Have Been Found In Canada</a>. <em>NPR</em>.
+<br /><sup>4</sup>Malakieh, J. 2020. <a href="https://www150.statcan.gc.ca/n1/pub/85-002-x/2020001/article/00016-eng.htm">Adult and youth correctional statistics in Canada, 2018/2019</a>. <em>Statistics Canada</em>.
+<br /><sup>5</sup>Tasker, J. P. 2019. <a href="https://www.cbc.ca/news/politics/mmiwg-inquiry-deliver-final-report-justice-reforms-1.5158223">Inquiry into missing and murdered Indigenous women issues final report with sweeping calls for change</a></p>]]></content><author><name></name></author><category term="book-reviews" /><category term="indigenous" /><category term="addiction" /><category term="homelessness" /><category term="canada" /><summary type="html"><![CDATA[by Jesse Thistle]]></summary></entry></feed>
