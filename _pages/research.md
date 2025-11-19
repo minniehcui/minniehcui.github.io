@@ -2,9 +2,9 @@
 layout: page
 permalink: /research/
 title: research
-description: 
+description: publications in reversed chronological order
 nav: true
-order: 2
+nav_order: 2
 ---
 
 #### Working Papers
